@@ -17,13 +17,15 @@ The website is deployed on a cloud application platform **Heroku** with a cloud 
 Old Version **Cloud9**. 
 
 ## Front-end
-**HTML**
+HTML
 
-**CSS**
+CSS
 
-**JavaScript**
+JavaScript
 
-**Bootstrap**
+Bootstrap
 
 ## Back-end
 DataBase: **MongoDB**
+Frame: **Express**
+Run-time Environment: **Node.js**
