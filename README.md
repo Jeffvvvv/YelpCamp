@@ -53,7 +53,7 @@ Run-time Environment: **Node.js**
 
 "/campgrounds/:id/comments/:comment_id/edit": edit and update a comment for a campground
 
-"/campgrounds/:id/comments/:comment_id": DELETE request - delete a certain comment
+"/campgrounds/:id/comments/:comment_id": DELETE request - delete a comment
 
 
 
