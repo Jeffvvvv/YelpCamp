@@ -31,3 +31,6 @@ DataBase: **MongoDB**
 Frame: **Express**
 
 Run-time Environment: **Node.js**
+
+## Routes
+"/": YelpCamp home page - see animation
