@@ -34,3 +34,28 @@ Run-time Environment: **Node.js**
 
 ## Routes
 "/": YelpCamp home page - see animation
+
+"/register": User Sign up
+
+"/login": User Log in
+
+"/logout": User Log out
+
+
+"/campgrounds": show all the campgrounds' images
+
+"/campgrounds/new": create a new campground
+
+"/campgrounds/:id": show detailed information for a campground
+
+"/campgrounds/:id/edit": edit and update the detailed information for a campground
+
+
+"/campgrounds/:id/comments/new": post a new comment for a campground
+
+"/campgrounds/:id/comments/:comment_id/edit": edit and update a comment for a campground
+
+"/campgrounds/:id/comments/:comment_id": DELETE request - delete a certain comment
+
+
+
