@@ -41,7 +41,6 @@ Run-time Environment: **Node.js**
 
 "/logout": User Log out
 
-
 "/campgrounds": show all the campgrounds' images
 
 "/campgrounds/new": create a new campground
@@ -49,7 +48,6 @@ Run-time Environment: **Node.js**
 "/campgrounds/:id": show detailed information for a campground
 
 "/campgrounds/:id/edit": edit and update the detailed information for a campground
-
 
 "/campgrounds/:id/comments/new": post a new comment for a campground
 
