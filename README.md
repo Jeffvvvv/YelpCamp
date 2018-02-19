@@ -55,5 +55,6 @@ Run-time Environment: **Node.js**
 
 "/campgrounds/:id/comments/:comment_id": DELETE request - delete a comment
 
+Note: You can only delete the comment and campground that you create!! You do not have permissions to modify others' comments and campgrounds, and you will not see **Edit** and **Delete** button when you read others comments and campgrounds info.
 
 
