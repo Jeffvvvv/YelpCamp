@@ -14,4 +14,13 @@ The website is deployed on [here](https://boiling-lowlands-77762.herokuapp.com).
 The website is deployed on a cloud application platform **Heroku** with a cloud database MongoDB service **MLab**.
 
 ## Development IDE
-Original Version Cloud9. 
+Old Version **Cloud9**. 
+
+## Front-end
+**HTML**
+**CSS**
+**JavaScript**
+**Bootstrap**
+
+## Back-end
+DataBase: **MongoDB**
