@@ -10,3 +10,5 @@ We are happy to see you!!!!!
 
 ## Deploment
 The website is deployed on [here](https://boiling-lowlands-77762.herokuapp.com).
+
+The website is deployed on a cloud application platform **Heroku**
